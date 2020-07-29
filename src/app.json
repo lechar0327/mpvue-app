@@ -10,7 +10,10 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black",
     "navigationStyle":"custom"
+<<<<<<< HEAD
     1222
+=======
+>>>>>>> 946a226834c1d735421c6290540fd6157a3fbeb9
   },
   "tabBar": {
     "color": "#999",
@@ -31,7 +34,7 @@
     }],
 
     "items": [{
-      "name": "首页",
+      "name": "首页12dd",
       "pagePath": "pages/index/main",
       "icon": "static/tabs/home.png",
       "activeIcon": "static/tabs/home-active.png"
